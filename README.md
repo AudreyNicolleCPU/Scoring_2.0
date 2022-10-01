@@ -7,7 +7,7 @@ Lors de ce projet, j'ai réalisé un sytème qui permet l'affichage du score et 
 
 ## Organisation du projet
 
-Le projet peut être exécuté sous Xilinx ISE via la fichier **chronoscore_phase_3.xise** dans le dossier **src**. Sinon, les fichiers en VHDL peuvent être ouvert en format texte. Les sujets des différentes phases sont dans le dossier **Sujets**. Le fichier **Scoring_2.0.pdf** est un compte-rendu du projet décrivant le fonctionnemant de celui-ci et des blocs réalisés.
+Le projet peut être exécuté sous Xilinx ISE via la fichier **chronoscore_phase_3.xise** dans le dossier **src**. Sinon, les fichiers en VHDL peuvent être ouvert en format texte. Les sujets des différentes phases sont dans le dossier **Sujets**. Le fichier **Projet_Scoring_2.0.pdf** est un compte-rendu du projet décrivant le fonctionnemant de celui-ci et des blocs réalisés.
 
 
 *-- English --*
@@ -18,5 +18,5 @@ During this project, I realized a system which allows the display of the score a
 
 ## Organization of the project
 
-The project can be run under Xilinx ISE via the **chronoscore_phase_3.xise** file in the **src** folder. Otherwise, the VHDL files can be opened in text format. The topics of the different phases are in the **Topics** folder. The file **Scoring_2.0.pdf** is a project report describing the functioning of the project and the blocks made.
+The project can be run under Xilinx ISE via the **chronoscore_phase_3.xise** file in the **src** folder. Otherwise, the VHDL files can be opened in text format. The topics of the different phases are in the **Topics** folder. The file **Projet_Scoring_2.0.pdf** is a project report describing the functioning of the project and the blocks made.
 
